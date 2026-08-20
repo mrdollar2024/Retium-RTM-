@@ -24,3 +24,6 @@ Currently in Phase 3 of a 5-phase roadmap. Public testnet and wallet are live. E
 ---
 
 ⚠️ *Note: This project has not yet published an independent security audit. Throughput and performance figures are projections, not mainnet-verified benchmarks. Do your own research before participating financially.*
+89
+78
+75
