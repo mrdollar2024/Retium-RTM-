@@ -15,15 +15,4 @@
 ## Status (as of writing)
 
 Currently in Phase 3 of a 5-phase roadmap. Public testnet and wallet are live. Early Validator Round is open for reserving Worker/Suit seats before mainnet launch.
-
-## Resources
-
-- Website: https://retium.org
-- Docs: (link to docs.retium.org)
-
----
-
-⚠️ *Note: This project has not yet published an independent security audit. Throughput and performance figures are projections, not mainnet-verified benchmarks. Do your own research before participating financially.*
-sdfg sd
-sd fds f
-sd f sd
+444
