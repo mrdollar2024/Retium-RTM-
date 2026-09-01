@@ -14,5 +14,4 @@
 
 ## Status (as of writing)
 
-Currently in Phase 3 of a 5-phase roadmap. Public testnet and wallet are live. Early Validator Round is open for reserving Worker/Suit seats before mainnet launch.
-jjjjjjjjjjjj
+
