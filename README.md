@@ -13,6 +13,3 @@
 - **Three validator roles**: Worker (10K RTM), Suit (100K RTM), Keeper (1M RTM), each with distinct responsibilities in transaction validation, finality, and network coordination.
 
 ## Status (as of writing)
-
-1
-2
